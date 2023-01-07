@@ -29,5 +29,19 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "users": [
+    {
+      "name": "Akshay",
+      "email": "a@a.com",
+      "password": "a"
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Akshay",
+      "task_of_the_day": "js",
+      "date": ""
+    }
   ]
 }
